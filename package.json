@@ -1,0 +1,24 @@
+{
+  "name": "gaussian-convolution-kernel",
+  "version": "1.0.0",
+  "description": "calculate square matrix - gaussian blur convolution kernel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidorares/gaussian-convolution-kernel.git"
+  },
+  "keywords": [
+    "gaussian",
+    "blur",
+    "convolution"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidorares/gaussian-convolution-kernel/issues"
+  },
+  "homepage": "https://github.com/sidorares/gaussian-convolution-kernel#readme"
+}
